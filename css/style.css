@@ -1,0 +1,27 @@
+
+/*Designing the header*/
+.bg-warning {
+	color: white;
+	padding: 15px;
+}
+
+
+/* The button on the header*/
+
+#logout-btn{
+	margin-top: -4%;
+	margin-right: 5%;
+}
+
+/* Styling the side nav bar*/
+
+#nav-list {
+padding: 50px;
+}
+
+#nav-list li{
+	padding: 20px;
+}
+
+
+
